@@ -1,0 +1,2697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UsersApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\UsersApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\css\\argon-dashboard.css",
+      "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\css\\argon-dashboard.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\css\\argon-dashboard.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\argon-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\illustrations\\icon-documentation.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\icon-documentation.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\argon-dashboard.js",
+      "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\argon-dashboard.js.map",
+      "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\argon-dashboard.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\argon-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\cards\\card-carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\icon.min.css",
+      "PackagePath": "staticwebassets\\css\\icon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\icon.min2.css",
+      "PackagePath": "staticwebassets\\css\\icon.min2.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\responsive.min.css",
+      "PackagePath": "staticwebassets\\css\\responsive.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\responsive.scss",
+      "PackagePath": "staticwebassets\\css\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\css\\vendors.min.css",
+      "PackagePath": "staticwebassets\\css\\vendors.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\Capture.PNG",
+      "PackagePath": "staticwebassets\\images\\Capture.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\HOME_3.jpg",
+      "PackagePath": "staticwebassets\\images\\HOME_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\HOME_4.jpg",
+      "PackagePath": "staticwebassets\\images\\HOME_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\LOGO_DARK.png",
+      "PackagePath": "staticwebassets\\images\\LOGO_DARK.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\LOGO_LIGHT.png",
+      "PackagePath": "staticwebassets\\images\\LOGO_LIGHT.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\account-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\account-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\agitate.jpg",
+      "PackagePath": "staticwebassets\\images\\agitate.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\apple-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-02.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-03.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-04.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-05.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-07.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-27.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-28.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\avtar-29.jpg",
+      "PackagePath": "staticwebassets\\images\\avtar-29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\bg1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\images\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\images\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\customized.png",
+      "PackagePath": "staticwebassets\\images\\customized.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\data-collection.png",
+      "PackagePath": "staticwebassets\\images\\data-collection.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\data.png",
+      "PackagePath": "staticwebassets\\images\\data.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-about-01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-about-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-about-title-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-about-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-02.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-03.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-04.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-05.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-06.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-07.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-08.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-blog-title-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-blog-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-clients-title-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-clients-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-company-01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-company-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-company-02.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-company-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-contact-01 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-contact-01 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-contact-01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-contact-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-contact-title-bg (1).jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-contact-title-bg (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-contact-title-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-contact-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\demo-business-logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-pricing-title-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-pricing-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-02.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-03.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-04.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-05.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-06.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-07.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-08.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-services-title-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-services-title-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-slider-01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-slider-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-slider-02.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-slider-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-slider-03.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-slider-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-tab-01.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-tab-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-tab-02.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-tab-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-tab-03.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-tab-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-tab-04.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-tab-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-business-video-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-business-video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\demo-finance-form-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\demo-finance-form-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\images\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\images\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\images\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\fav_icon.png",
+      "PackagePath": "staticwebassets\\images\\fav_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\global.png",
+      "PackagePath": "staticwebassets\\images\\global.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\images\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\images\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\home_img.jpg",
+      "PackagePath": "staticwebassets\\images\\home_img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\home_img2.jpg",
+      "PackagePath": "staticwebassets\\images\\home_img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\images\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\illustrations\\icon-documentation.svg",
+      "PackagePath": "staticwebassets\\images\\illustrations\\icon-documentation.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\images\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\improvement.png",
+      "PackagePath": "staticwebassets\\images\\improvement.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\innovation.png",
+      "PackagePath": "staticwebassets\\images\\innovation.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\insurance.png",
+      "PackagePath": "staticwebassets\\images\\insurance.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\images\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\images\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\images\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\lightlogo.png",
+      "PackagePath": "staticwebassets\\images\\lightlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-amazon-dark-blue.svg",
+      "PackagePath": "staticwebassets\\images\\logo-amazon-dark-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-ct.png",
+      "PackagePath": "staticwebassets\\images\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-invision-dark-blue.svg",
+      "PackagePath": "staticwebassets\\images\\logo-invision-dark-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-jquery.svg",
+      "PackagePath": "staticwebassets\\images\\logo-jquery.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-logitech.svg",
+      "PackagePath": "staticwebassets\\images\\logo-logitech.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-netflix-dark-blue.svg",
+      "PackagePath": "staticwebassets\\images\\logo-netflix-dark-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-walmart-dark-blue.svg",
+      "PackagePath": "staticwebassets\\images\\logo-walmart-dark-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logo-yahoo-dark-blue.svg",
+      "PackagePath": "staticwebassets\\images\\logo-yahoo-dark-blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\images\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\images\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\marie.jpg",
+      "PackagePath": "staticwebassets\\images\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\maximize.jpg",
+      "PackagePath": "staticwebassets\\images\\maximize.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\mfg-close.png",
+      "PackagePath": "staticwebassets\\images\\mfg-close.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\mind.png",
+      "PackagePath": "staticwebassets\\images\\mind.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\mlrslogo.png",
+      "PackagePath": "staticwebassets\\images\\mlrslogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\mlsrlogo.png",
+      "PackagePath": "staticwebassets\\images\\mlsrlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\outdated.jpg",
+      "PackagePath": "staticwebassets\\images\\outdated.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\pie-chart.png",
+      "PackagePath": "staticwebassets\\images\\pie-chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\quality.png",
+      "PackagePath": "staticwebassets\\images\\quality.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\real_time.png",
+      "PackagePath": "staticwebassets\\images\\real_time.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\research.jpg",
+      "PackagePath": "staticwebassets\\images\\research.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\scripting.png",
+      "PackagePath": "staticwebassets\\images\\scripting.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\images\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\images\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\images\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\solution.jpg",
+      "PackagePath": "staticwebassets\\images\\solution.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\support.png",
+      "PackagePath": "staticwebassets\\images\\support.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\survey.png",
+      "PackagePath": "staticwebassets\\images\\survey.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-08.jpg",
+      "PackagePath": "staticwebassets\\images\\team-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-09.jpg",
+      "PackagePath": "staticwebassets\\images\\team-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-10.jpg",
+      "PackagePath": "staticwebassets\\images\\team-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-11.jpg",
+      "PackagePath": "staticwebassets\\images\\team-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-21.jpg",
+      "PackagePath": "staticwebassets\\images\\team-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-22.jpg",
+      "PackagePath": "staticwebassets\\images\\team-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-23.jpg",
+      "PackagePath": "staticwebassets\\images\\team-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-24.jpg",
+      "PackagePath": "staticwebassets\\images\\team-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-25.jpg",
+      "PackagePath": "staticwebassets\\images\\team-25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\teamwork.png",
+      "PackagePath": "staticwebassets\\images\\teamwork.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\images\\theme\\angular.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\images\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\images\\theme\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\images\\theme\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\images\\theme\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\images\\theme\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\images\\theme\\react.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\images\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\images\\theme\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\images\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\images\\theme\\tim.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\images\\theme\\unass.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\images\\theme\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\images\\theme\\vue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\trust.jpg",
+      "PackagePath": "staticwebassets\\images\\trust.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\trust_1.png",
+      "PackagePath": "staticwebassets\\images\\trust_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\images\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\menu.js",
+      "PackagePath": "staticwebassets\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\js\\vendors.min.js",
+      "PackagePath": "staticwebassets\\js\\vendors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\lib\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\lib\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\lib\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\lib\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\lib\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\lib\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\lib\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\lib\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\_colors.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\scss\\core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Arham\\Desktop\\AspNetCoreMvcCustomLoginAndRegistration-main\\wwwroot\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.UsersApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.UsersApp.props",
+      "PackagePath": "build\\UsersApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.UsersApp.props",
+      "PackagePath": "buildMultiTargeting\\UsersApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.UsersApp.props",
+      "PackagePath": "buildTransitive\\UsersApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

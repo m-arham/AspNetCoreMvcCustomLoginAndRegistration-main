@@ -1,0 +1,1024 @@
+﻿@using UsersApp.ViewModels;
+@model RegisterViewModel;
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet" href="@Url.Content("~/css/vendors.min.css")" />
+<link rel="stylesheet" href="@Url.Content("~/css/icon.min.css")" />
+<link rel="stylesheet" href="@Url.Content("~/css/style.min.css")" />
+<link rel="stylesheet" href="@Url.Content("~/css/responsive.min.css")" />
+<link rel="stylesheet" href="@Url.Content("~/demos/business/business.css")" />
+<link rel="stylesheet" href="@Url.Content("~/css/index.css")" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/css/intlTelInput.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
+
+<style>
+    .radio_check {
+        display: flex;
+        width: 100%;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .radio_check input {
+        width: 15px;
+    }
+
+    .radio-group div {
+        gap: 10px;
+    }
+
+    .form-check {
+        margin-bottom: 0.5rem; /* Space between checkboxes */
+    }
+
+    .form-check-input {
+        width: 1.25rem; /* Smaller width for checkboxes */
+        height: 1.25rem; /* Smaller height for checkboxes */
+    }
+
+    .form-label {
+        font-weight: bold; /* Bold label */
+        margin-bottom: 0.5rem; /* Space between label and checkboxes */
+    }
+
+    .paypal-options {
+    display: flex;
+    flex-direction: column; /* Align options vertically */
+}
+
+.paypal-option {
+    position: relative; /* Position for custom styling */
+    padding-left: 30px; /* Space for the custom radio button */
+    margin: 10px 0; /* Spacing between options */
+    cursor: pointer; /* Pointer on hover */
+    font-size: 16px; /* Modern font size */
+}
+
+.paypal-option input[type="radio"] {
+    position: absolute; /* Hide default radio */
+    opacity: 0; /* Make it invisible */
+}
+
+.paypal-option input[type="radio"] + .option-label {
+    position: relative;
+    padding-left: 30px; /* Space for custom radio */
+}
+
+.paypal-option input[type="radio"] + .option-label::before {
+    content: '';
+    position: absolute;
+    left: 0; /* Align to left */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Center it */
+    width: 18px; /* Custom radio size */
+    height: 18px; /* Custom radio size */
+    border: 2px solid #007bff; /* Border color */
+    border-radius: 50%; /* Round shape */
+    background-color: #fff; /* Background color */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.paypal-option input[type="radio"]:checked + .option-label::before {
+    background-color: #007bff; /* Checked background color */
+    border-color: #0056b3; /* Checked border color */
+}
+
+.text-danger {
+    display: block;
+    margin-top: 5px; /* Space between radio and validation message */
+}
+
+/* Styles for the webcam and feedback radio buttons */
+.webcam-options,
+.feedback-options {
+    display: flex;
+    flex-direction: column; /* Align options vertically */
+}
+
+.webcam-option,
+.feedback-option {
+    position: relative; /* Position for custom styling */
+    padding-left: 30px; /* Space for the custom radio button */
+    margin: 10px 0; /* Spacing between options */
+    cursor: pointer; /* Pointer on hover */
+    font-size: 16px; /* Modern font size */
+}
+
+.webcam-option input[type="radio"],
+.feedback-option input[type="radio"] {
+    position: absolute; /* Hide default radio */
+    opacity: 0; /* Make it invisible */
+}
+
+.webcam-option input[type="radio"] + .option-label,
+.feedback-option input[type="radio"] + .option-label {
+    position: relative;
+    padding-left: 30px; /* Space for custom radio */
+}
+
+.webcam-option input[type="radio"] + .option-label::before,
+.feedback-option input[type="radio"] + .option-label::before {
+    content: '';
+    position: absolute;
+    left: 0; /* Align to left */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Center it */
+    width: 18px; /* Custom radio size */
+    height: 18px; /* Custom radio size */
+    border: 2px solid #007bff; /* Border color */
+    border-radius: 50%; /* Round shape */
+    background-color: #fff; /* Background color */
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+.webcam-option input[type="radio"]:checked + .option-label::before,
+.feedback-option input[type="radio"]:checked + .option-label::before {
+    background-color: #007bff; /* Checked background color */
+    border-color: #0056b3; /* Checked border color */
+}
+
+.text-danger {
+    display: block;
+    margin-top: 5px; /* Space between radio and validation message */
+}
+
+
+</style>
+
+
+<div>
+ <section class="page-title-big-typography bg-dark-gray ipad-top-space-margin margin-0 padding-0" data-parallax-background-ratio="0.5"
+        style="background-image: url('@Url.Content("~/images/demo-business-contact-title-bg.jpg")')">
+        <div class="opacity-extra-medium bg-dark-slate-blue"></div>
+        <div class="container">
+            <div class="row align-items-center justify-content-center extra-small-screen">
+                <div class="col-12 position-relative text-center page-title-extra-large">
+                    <h1 class="m-auto text-white text-shadow-double-large fw-500 ls-minus-3px xs-ls-minus-2px"
+                        data-anime="{ &quot;translateY&quot;: [15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">Join Our Panel </h1>
+                </div>
+                <div class="down-section text-center"
+                    data-anime="{ &quot;translateY&quot;: [-15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    <a href="#down-section" aria-label="scroll down" class="section-link">
+                        <div
+                            class="d-flex justify-content-center align-items-center mx-auto rounded-circle fs-30 text-white">
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section>
+        <div class="container">
+            <div>
+                <div class="chip">
+
+                    <p style="font-size: 20px;">
+                        <a href="#form" style="color: #4d6de2;">Gains League</a> our exclusive
+                        panel
+                        gives you the opportunity to share your ideas and opinions on areas
+                        that matter to you. Take this opportunity to shape future products and services and help
+                        industry
+                        leaders with your valuable inputs.
+                    </p>
+                </div>
+
+
+
+
+                <div class="y-us-section">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12">
+                                <div class="y-us-head">
+                                    <div class="y-us-title">
+                                        <h4>Why Join Gains league?</h4>
+
+                                        <span class="y-us-title-border"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="y-us-content">
+                                    <div class="service-3">
+                                        <div class="service-box">
+                                            <div class="clearfix">
+
+                                                <div class="y-us-content">
+                                                    <h6>Influence Development</h6>
+                                                    <p>
+                                                        Have a direct impact on the development of products and services
+                                                        worldwide.
+                                                    </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="service-box">
+                                            <div class="clearfix">
+                                                <div class="iconset">
+                                                    <span class="glyphicon glyphicon-cog icon"></span>
+                                                </div>
+                                                <div class="y-us-content">
+                                                    <h6>Diverse Communities</h6>
+                                                    <p>
+                                                        Be part of communities with a wide range of views and
+                                                        experiences
+                                                    </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="why-choose-banner">
+                                    <img src="http://themeinnovation.com/demo2/html/build-up/img/home1/why-choose.jpg"
+                                        alt="">
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                <div class="y-us-contentbox">
+                                    <div class="service-3">
+                                        <div class="service-box">
+                                            <div class="clearfix">
+                                                <div class="y-us-content">
+                                                    <h6>Valued Time</h6>
+                                                    <p>
+                                                        Your time and insights are highly valued, and you will be well
+                                                        rewarded for every survey you participate in
+                                                    </p>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="service-box">
+                                            <div class="clearfix">
+                                                <div class="iconset">
+                                                    <span class="glyphicon glyphicon-cog icon"></span>
+                                                </div>
+                                                <div class="y-us-content">
+                                                    <h6>Global Reach</h6>
+                                                    <p>
+                                                        Your opinions can influence products and services on a global
+                                                        scale
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+
+                                </div>
+
+                            </div>
+                            <p>
+                                <b>Join us and become a part of the Gains League community, where your expertise and
+                                    opinions are valued and rewarded. Help shape the future by sharing your unique
+                                    perspectives.
+                                </b>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+<div class="account-container">
+    <div class="account-box">
+        <h2 class="text-center mb-4 mt-10">Register</h2>
+        <form asp-action="Register" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Email" class="form-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="Password" class="form-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="ConfirmPassword" class="form-label"></label>
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                    <label class="form-label" for="PhoneNumber">Phone Number</label>
+                    <div class="input-group">
+                        <select asp-for="CountryCode" class="form-select" id="CountryCode">
+                            <option value="">Select Country Code</option>
+                           
+                                <option value="+1">+1 (USA, Canada)</option>
+                                <option value="+44">+44 (United Kingdom)</option>
+                                <option value="+91">+91 (India)</option>
+                                <option value="+61">+61 (Australia)</option>
+                                <option value="+81">+81 (Japan)</option>
+                                <option value="+49">+49 (Germany)</option>
+                                <option value="+33">+33 (France)</option>
+                                <option value="+39">+39 (Italy)</option>
+                                <option value="+34">+34 (Spain)</option>
+                                <option value="+55">+55 (Brazil)</option>
+                                <option value="+7">+7 (Russia, Kazakhstan)</option>
+                                <option value="+86">+86 (China)</option>
+                                <option value="+65">+65 (Singapore)</option>
+                                <option value="+61">+61 (New Zealand)</option>
+                                <option value="+27">+27 (South Africa)</option>
+                                <option value="+62">+62 (Indonesia)</option>
+                                <option value="+351">+351 (Portugal)</option>
+                                <option value="+353">+353 (Ireland)</option>
+                                <option value="+41">+41 (Switzerland)</option>
+                                <option value="+46">+46 (Sweden)</option>
+                                <option value="+45">+45 (Denmark)</option>
+                                <option value="+47">+47 (Norway)</option>
+                                <option value="+358">+358 (Finland)</option>
+                                <option value="+36">+36 (Hungary)</option>
+                                <option value="+420">+420 (Czech Republic)</option>
+                                <option value="+421">+421 (Slovakia)</option>
+                                <option value="+420">+420 (Slovakia)</option>
+                                <option value="+353">+353 (Ireland)</option>
+                                <option value="+32">+32 (Belgium)</option>
+                                <option value="+31">+31 (Netherlands)</option>
+                                <option value="+378">+378 (San Marino)</option>
+                                <option value="+372">+372 (Estonia)</option>
+                                <option value="+370">+370 (Lithuania)</option>
+                                <option value="+371">+371 (Latvia)</option>
+                                <option value="+352">+352 (Luxembourg)</option>
+                                <option value="+41">+41 (Switzerland)</option>
+                                <option value="+423">+423 (Liechtenstein)</option>
+                                <option value="+376">+376 (Andorra)</option>
+                                <option value="+358">+358 (Finland)</option>
+                                <option value="+359">+359 (Bulgaria)</option>
+                                <option value="+389">+389 (North Macedonia)</option>
+                                <option value="+381">+381 (Serbia)</option>
+                                <option value="+386">+386 (Slovenia)</option>
+                                <option value="+43">+43 (Austria)</option>
+                                <option value="+48">+48 (Poland)</option>
+                                <option value="+381">+381 (Serbia)</option>
+                                <option value="+355">+355 (Albania)</option>
+                                <option value="+373">+373 (Moldova)</option>
+                                <option value="+40">+40 (Romania)</option>
+                                <option value="+41">+41 (Switzerland)</option>
+                                <option value="+359">+359 (Bulgaria)</option>
+                                <option value="+966">+966 (Saudi Arabia)</option>
+                                <option value="+971">+971 (United Arab Emirates)</option>
+                                <option value="+98">+98 (Iran)</option>
+                                <option value="+964">+964 (Iraq)</option>
+                                <option value="+972">+972 (Israel)</option>
+                                <option value="+963">+963 (Syria)</option>
+                                <option value="+966">+966 (Saudi Arabia)</option>
+                                <option value="+27">+27 (South Africa)</option>
+                                <option value="+63">+63 (Philippines)</option>
+                                <option value="+63">+63 (Philippines)</option>
+                                <option value="+855">+855 (Cambodia)</option>
+                                <option value="+84">+84 (Vietnam)</option>
+                                <option value="+62">+62 (Indonesia)</option>
+                                <option value="+60">+60 (Malaysia)</option>
+                                <option value="+66">+66 (Thailand)</option>
+                                <option value="+95">+95 (Myanmar)</option>
+                                <option value="+855">+855 (Cambodia)</option>
+
+                            <!-- Add more country codes as needed -->
+                        </select>
+                        <input type="text" asp-for="PhoneNumber" class="form-control" placeholder="Your Phone Number" />
+                    </div>
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+
+                   <div class="mb-3">
+                    <label class="form-label" for="DateOfBirth">Date of Birth</label>
+                    <input type="date" asp-for="DateOfBirth" class="form-control" />
+                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                </div>
+
+            
+             <div class="mb-3">
+                <label asp-for="Country" class="form-label"></label>
+                <input asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+
+             <div class="mb-3">
+        <label>Which of the following best describes the industry that you, personally, work in?</label>
+        <select asp-for="Industry" class="form-select">
+            <option value="">Select Industry</option>
+            <option value="Information Technology & Services">Information Technology & Services</option>
+            <option value="Healthcare">Healthcare</option>
+            <option value="Finance">Finance</option>
+            <option value="Education">Education</option>
+            <option value="Manufacturing">Manufacturing</option>
+            <option value="Retail">Retail</option>
+            <option value="Construction">Construction</option>
+            <option value="Hospitality">Hospitality</option>
+            <option value="Transportation">Transportation</option>
+            <option value="Real Estate">Real Estate</option>
+            <option value="Energy">Energy</option>
+            <option value="Telecommunications">Telecommunications</option>
+            <option value="Entertainment">Entertainment</option>
+            <option value="Legal Services">Legal Services</option>
+            <option value="Marketing & Advertising">Marketing & Advertising</option>
+            <option value="Agriculture">Agriculture</option>
+            <option value="Pharmaceuticals">Pharmaceuticals</option>
+            <option value="Non-Profit">Non-Profit</option>
+
+            <!-- Add more options as needed -->
+        </select>
+        <span asp-validation-for="Industry" class="text-danger"></span>
+    </div>
+
+
+           <div class="mb-3">
+    <label class="form-label">We will be rewarding you with Paypal account</label>
+    <div class="paypal-options">
+        <label class="paypal-option">
+            <input type="radio" asp-for="HasPayPal" value="Yes" />
+            <span class="option-label">Yes, I have a PayPal account and ready to accept my rewards.</span>
+        </label>
+        <label class="paypal-option">
+            <input type="radio" asp-for="HasPayPal" value="No" />
+            <span class="option-label">No, I don’t have a PayPal account.</span>
+        </label>
+        <label class="paypal-option">
+            <input type="radio" asp-for="HasPayPal" value="Later" />
+            <span class="option-label">I will tell later.</span>
+        </label>
+    </div>
+    <span asp-validation-for="HasPayPal" class="text-danger"></span>
+</div>
+
+
+
+                    <div class="mb-3">
+                    <label asp-for="JobTitle" class="form-label">What is your current employment status?</label>
+                    <select asp-for="JobTitle" class="form-select">
+                       <option value="">Select Employment Status</option>
+                        <option value="Employed Full-Time">Employed Full-Time</option>
+                        <option value="Employed Part-Time">Employed Part-Time</option>
+                        <option value="Self-Employed">Self-Employed</option>
+                        <option value="Unemployed">Unemployed</option>
+                        <option value="Retired">Retired</option>
+                        <option value="Student">Student</option>
+                        <option value="Freelancer">Freelancer</option>
+                        <option value="Contractor">Contractor</option>
+                        <option value="Looking for Work">Looking for Work</option>
+                        <option value="Not Seeking Employment">Not Seeking Employment</option>
+                        <option value="None">None of the above</option>
+                    </select>
+                    <span asp-validation-for="EmpStatus" class="text-danger"></span>
+                </div>
+
+
+                <div class="mb-3">
+    <label asp-for="JobTitle" class="form-label">What is your job title, level, or responsibility?</label>
+    <select asp-for="JobTitle" class="form-select">
+        <option value="">Select Job Title/Level</option>
+        <option value="C-Level">C-Level (e.g., CEO, CFO)</option>
+        <option value="Owner">Owner</option>
+        <option value="Partner">Partner</option>
+        <option value="President">President</option>
+        <option value="Vice President">Vice President (EVP, SVP, AVP, VP)</option>
+        <option value="Director">Director (Group Director, Sr. Director)</option>
+        <option value="Manager">Manager (Group Manager, Sr. Manager)</option>
+        <option value="Supervisor">Supervisor</option>
+        <option value="Team Lead">Team Lead</option>
+        <option value="Analyst">Analyst</option>
+        <option value="Consultant">Consultant</option>
+        <option value="Specialist">Specialist</option>
+        <option value="Assistant">Assistant or Associate</option>
+        <option value="Intern">Intern</option>
+        <option value="Student">Student</option>
+        <option value="Volunteer">Volunteer</option>
+        <option value="None">None of the above</option>
+    </select>
+    <span asp-validation-for="JobTitle" class="text-danger"></span>
+</div>
+
+
+
+
+                        <div class="mb-3">
+                <label asp-for="EmployeeCount" class="form-label">Approximately how many employees work at your organization (all locations)?</label>
+                <select asp-for="EmployeeCount" class="form-select">
+                    <option value="">Select Employee Count</option>
+                    <option value="1-10">1-10</option>
+                    <option value="11-50">11-50</option>
+                    <option value="51-200">51-200</option>
+                    <option value="201-500">201-500</option>
+                    <option value="501-1000">501-1000</option>
+                    <option value="1001-5000">1001-5000</option>
+                    <option value="5001-10000">5001-10000</option>
+                    <option value="10000+">10000+</option>
+                </select>
+                <span asp-validation-for="EmployeeCount" class="text-danger"></span>
+            </div>
+
+                        <div class="mb-3">
+                <label asp-for="IncomeBeforeTaxes" class="form-label">How much is your income earned before taxes?</label>
+                <select asp-for="IncomeBeforeTaxes" class="form-select">
+                    <option value="">Select Income Range</option>
+                    <option value="Less than $20,000">Less than $20,000</option>
+                    <option value="$20,000 - $24,999">$20,000 - $24,999</option>
+                    <option value="$25,000 - $29,999">$25,000 - $29,999</option>
+                    <option value="$30,000 - $34,999">$30,000 - $34,999</option>
+                    <option value="$35,000 - $39,999">$35,000 - $39,999</option>
+                    <option value="$40,000 - $44,999">$40,000 - $44,999</option>
+                    <option value="$45,000 - $49,999">$45,000 - $49,999</option>
+                    <option value="$50,000 - $54,999">$50,000 - $54,999</option>
+                    <option value="$55,000 - $59,999">$55,000 - $59,999</option>
+                    <option value="$60,000 - $64,999">$60,000 - $64,999</option>
+                    <option value="$65,000 - $69,999">$65,000 - $69,999</option>
+                    <option value="$70,000 - $74,999">$70,000 - $74,999</option>
+                    <option value="$75,000 - $79,999">$75,000 - $79,999</option>
+                    <option value="$80,000 - $84,999">$80,000 - $84,999</option>
+                    <option value="$85,000 - $89,999">$85,000 - $89,999</option>
+                    <option value="$90,000 - $94,999">$90,000 - $94,999</option>
+                    <option value="$95,000 - $99,999">$95,000 - $99,999</option>
+
+                    </select>
+                <span asp-validation-for="IncomeBeforeTaxes" class="text-danger"></span>
+            </div>
+
+
+                    <div class="mb-3">
+                <label asp-for="EducationLevel" class="form-label">What is the highest level of education you have completed?</label>
+                <select asp-for="EducationLevel" class="form-select">
+                    <option value="">Select Education Level</option>
+                    <option value="Less than High School">Less than High School</option>
+                    <option value="High School Diploma or GED">High School Diploma or GED</option>
+                    <option value="Some College">Some College</option>
+                    <option value="Associate Degree">Associate Degree</option>
+                    <option value="Bachelor's Degree">Bachelor's Degree</option>
+                    <option value="Master's Degree">Master's Degree</option>
+                    <option value="Doctoral Degree">Doctoral Degree</option>
+                    <option value="Professional Degree">Professional Degree (e.g., JD, MD)</option>
+                </select>
+                <span asp-validation-for="EducationLevel" class="text-danger"></span>
+            </div>
+
+
+                    <div class="mb-3">
+    <label class="form-label">Please choose which departments/products you have influence or decision-making authority over regarding spending/purchasing:</label>
+    <div class="row">
+        <div class="col-6">
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsAdmin" id="isAdmin" />
+                <label class="form-check-label" for="isAdmin">Administration</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsCustServ" id="isCustServ" />
+                <label class="form-check-label" for="isCustServ">Customer Service</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsExecLead" id="isExecLead" />
+                <label class="form-check-label" for="isExecLead">Executive Leadership</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsFinance" id="isFinance" />
+                <label class="form-check-label" for="isFinance">Finance</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsHR" id="isHR" />
+                <label class="form-check-label" for="isHR">Human Resources</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsMarketing" id="isMarketing" />
+                <label class="form-check-label" for="isMarketing">Marketing</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsLegal" id="isLegal" />
+                <label class="form-check-label" for="isLegal">Legal</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsOps" id="isOps" />
+                <label class="form-check-label" for="isOps">Operations</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsProcurement" id="isProcurement" />
+                <label class="form-check-label" for="isProcurement">Procurement</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsSales" id="isSales" />
+                <label class="form-check-label" for="isSales">Sales</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsSupplyChain" id="isSupplyChain" />
+                <label class="form-check-label" for="isSupplyChain">Supply Chain</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsTechHardware" id="isTechHardware" />
+                <label class="form-check-label" for="isTechHardware">Tech Hardware</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsTechSoftware" id="isTechSoftware" />
+                <label class="form-check-label" for="isTechSoftware">Tech Software</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsTechImpl" id="isTechImpl" />
+                <label class="form-check-label" for="isTechImpl">Tech Implementation</label>
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" asp-for="IsOther" id="isOther" />
+                <label class="form-check-label" for="isOther">Other</label>
+            </div>
+        </div>
+    </div>
+    <span asp-validation-for="InfluenceDepartments" class="text-danger"></span>
+</div>
+
+
+<div class="mb-3">
+    <label asp-for="Department" class="form-label">Which department do you primarily work within at your organization?</label>
+    <select asp-for="Department" class="form-select">
+        <option value="">Select Department</option>
+        <option value="HR">Human Resources</option>
+        <option value="Finance">Finance</option>
+        <option value="Marketing">Marketing</option>
+        <option value="Sales">Sales</option>
+        <option value="IT">Information Technology</option>
+        <option value="CustServ">Customer Service</option>
+        <option value="Ops">Operations</option>
+        <option value="R&D">Research and Development</option>
+        <option value="Legal">Legal</option>
+        <option value="Admin">Administration</option>
+        <option value="Prod">Production</option>
+        <option value="SupplyChain">Supply Chain</option>
+        <option value="BizDev">Business Development</option>
+        <option value="QA">Quality Assurance</option>
+        <option value="Other">Other</option>
+    </select>
+    <span asp-validation-for="Department" class="text-danger"></span>
+</div>
+
+
+
+<div class="mb-3">
+    <label asp-for="AnnualRevenue" class="form-label">Approximately what is the annual revenue for your organization?</label>
+    <select asp-for="AnnualRevenue" class="form-select">
+        <option value="">Select Annual Revenue</option>
+        <option value="Under 100k">Under $100,000</option>
+        <option value="100k-499k">$100,000 - $499,999</option>
+        <option value="500k-999k">$500,000 - $999,999</option>
+        <option value="1m-4.9m">$1 million - $4.9 million</option>
+        <option value="5m-9.9m">$5 million - $9.9 million</option>
+        <option value="10m-49.9m">$10 million - $49.9 million</option>
+        <option value="50m-99.9m">$50 million - $99.9 million</option>
+        <option value="100m-499.9m">$100 million - $499.9 million</option>
+        <option value="500m+">Over $500 million</option>
+    </select>
+    <span asp-validation-for="AnnualRevenue" class="text-danger"></span>
+</div>
+
+
+<div class="mb-3">
+    <label asp-for="FamilyIncome" class="form-label">What is your current yearly family income after paying taxes?</label>
+    <select asp-for="FamilyIncome" class="form-select">
+        <option value="">Select Yearly Family Income</option>
+        <option value="15k-19.9k">$15,000 - $19,999</option>
+        <option value="20k-24.9k">$20,000 - $24,999</option>
+        <option value="25k-29.9k">$25,000 - $29,999</option>
+        <option value="30k-34.9k">$30,000 - $34,999</option>
+        <option value="35k-39.9k">$35,000 - $39,999</option>
+        <option value="40k-44.9k">$40,000 - $44,999</option>
+        <option value="45k-49.9k">$45,000 - $49,999</option>
+        <option value="50k-54.9k">$50,000 - $54,999</option>
+        <option value="55k-59.9k">$55,000 - $59,999</option>
+        <option value="60k-64.9k">$60,000 - $64,999</option>
+        <option value="65k-69.9k">$65,000 - $69,999</option>
+        <option value="70k-74.9k">$70,000 - $74,999</option>
+        <option value="75k-79.9k">$75,000 - $79,999</option>
+        <option value="80k-84.9k">$80,000 - $84,999</option>
+        <option value="85k-89.9k">$85,000 - $89,999</option>
+        <option value="90k-94.9k">$90,000 - $94,999</option>
+        <option value="95k-99.9k">$95,000 - $99,999</option>
+        <option value="100k+">Over $100,000</option>
+    </select>
+    <span asp-validation-for="FamilyIncome" class="text-danger"></span>
+</div>
+
+
+                                <div class="mb-3">
+                <label class="form-label">Do you, or does anyone in your household, work in any of the following industries?</label>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsAccounting" id="isAccounting" />
+                            <label class="form-check-label" for="isAccounting">Accounting</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsAdvertising" id="isAdvertising" />
+                            <label class="form-check-label" for="isAdvertising">Advertising</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsArchitecture" id="isArchitecture" />
+                            <label class="form-check-label" for="isArchitecture">Architecture</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsAutomotive" id="isAutomotive" />
+                            <label class="form-check-label" for="isAutomotive">Automotive</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsAviation" id="isAviation" />
+                            <label class="form-check-label" for="isAviation">Aviation</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsBankingFinancial" id="isBankingFinancial" />
+                            <label class="form-check-label" for="isBankingFinancial">Banking/Financial</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsBioTech" id="isBioTech" />
+                            <label class="form-check-label" for="isBioTech">Bio-Tech</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsBrokerage" id="isBrokerage" />
+                            <label class="form-check-label" for="isBrokerage">Brokerage</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsCarpentryElectrical" id="isCarpentryElectrical" />
+                            <label class="form-check-label" for="isCarpentryElectrical">Carpentry/Electrical Installations</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsChemicalsPlasticsRubber" id="isChemicalsPlasticsRubber" />
+                            <label class="form-check-label" for="isChemicalsPlasticsRubber">Chemicals/Plastics/Rubber</label>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsCommunicationsInformation" id="isCommunicationsInformation" />
+                            <label class="form-check-label" for="isCommunicationsInformation">Communications/Information</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsComputerHardware" id="isComputerHardware" />
+                            <label class="form-check-label" for="isComputerHardware">Computer Hardware</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsComputerReseller" id="isComputerReseller" />
+                            <label class="form-check-label" for="isComputerReseller">Computer Reseller (software/hardware)</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsComputerSoftware" id="isComputerSoftware" />
+                            <label class="form-check-label" for="isComputerSoftware">Computer Software</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsConstruction" id="isConstruction" />
+                            <label class="form-check-label" for="isConstruction">Construction</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsConsulting" id="isConsulting" />
+                            <label class="form-check-label" for="isConsulting">Consulting</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsConsumerElectronics" id="isConsumerElectronics" />
+                            <label class="form-check-label" for="isConsumerElectronics">Consumer Electronics</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsConsumerPackagedGoods" id="isConsumerPackagedGoods" />
+                            <label class="form-check-label" for="isConsumerPackagedGoods">Consumer Packaged Goods</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsEducation" id="isEducation" />
+                            <label class="form-check-label" for="isEducation">Education</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsEnergyUtilities" id="isEnergyUtilities" />
+                            <label class="form-check-label" for="isEnergyUtilities">Energy/Utilities/Oil and Gas</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsEnvironmentalServices" id="isEnvironmentalServices" />
+                            <label class="form-check-label" for="isEnvironmentalServices">Environmental Services</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsEngineering" id="isEngineering" />
+                            <label class="form-check-label" for="isEngineering">Engineering</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsFashionApparel" id="isFashionApparel" />
+                            <label class="form-check-label" for="isFashionApparel">Fashion/Apparel</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsFoodBeverage" id="isFoodBeverage" />
+                            <label class="form-check-label" for="isFoodBeverage">Food/Beverage</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsGovernmentPublicSector" id="isGovernmentPublicSector" />
+                            <label class="form-check-label" for="isGovernmentPublicSector">Government/Public Sector</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsHealthcare" id="isHealthcare" />
+                            <label class="form-check-label" for="isHealthcare">Healthcare</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsHospitalityTourism" id="isHospitalityTourism" />
+                            <label class="form-check-label" for="isHospitalityTourism">Hospitality/Tourism</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsInsurance" id="isInsurance" />
+                            <label class="form-check-label" for="isInsurance">Insurance</label>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsHumanResources" id="isHumanResources" />
+                            <label class="form-check-label" for="isHumanResources">Human Resources</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsInformationTechnology" id="isInformationTechnology" />
+                            <label class="form-check-label" for="isInformationTechnology">Information Technology/IT</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsInternet" id="isInternet" />
+                            <label class="form-check-label" for="isInternet">Internet</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsLegalLaw" id="isLegalLaw" />
+                            <label class="form-check-label" for="isLegalLaw">Legal/Law</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsManufacturing" id="isManufacturing" />
+                            <label class="form-check-label" for="isManufacturing">Manufacturing</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsMarketResearch" id="isMarketResearch" />
+                            <label class="form-check-label" for="isMarketResearch">Market Research</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsMediaEntertainment" id="isMediaEntertainment" />
+                            <label class="form-check-label" for="isMediaEntertainment">Media/Entertainment</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsMilitary" id="isMilitary" />
+                            <label class="form-check-label" for="isMilitary">Military</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsNonProfitSocialServices" id="isNonProfitSocialServices" />
+                            <label class="form-check-label" for="isNonProfitSocialServices">Non Profit/Social Services</label>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsPersonalServices" id="isPersonalServices" />
+                            <label class="form-check-label" for="isPersonalServices">Personal Services</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsPharmaceuticals" id="isPharmaceuticals" />
+                            <label class="form-check-label" for="isPharmaceuticals">Pharmaceuticals</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsPrintingPublishing" id="isPrintingPublishing" />
+                            <label class="form-check-label" for="isPrintingPublishing">Printing Publishing</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsPublicRelations" id="isPublicRelations" />
+                            <label class="form-check-label" for="isPublicRelations">Public Relations</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsRealEstate" id="isRealEstate" />
+                            <label class="form-check-label" for="isRealEstate">Real Estate/Property</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsRetailWholesale" id="isRetailWholesale" />
+                            <label class="form-check-label" for="isRetailWholesale">Retail Wholesale Trade</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsSecurity" id="isSecurity" />
+                            <label class="form-check-label" for="isSecurity">Security</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsShippingDistribution" id="isShippingDistribution" />
+                            <label class="form-check-label" for="isShippingDistribution">Shipping/Distribution</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsTelecommunications" id="isTelecommunications" />
+                            <label class="form-check-label" for="isTelecommunications">Telecommunications</label>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsTransportation" id="isTransportation" />
+                            <label class="form-check-label" for="isTransportation">Transportation</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsMarketingg" id="isMarketingg" />
+                            <label class="form-check-label" for="isMarketingg">Marketing</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsSaless" id="isSaless" />
+                            <label class="form-check-label" for="isSaless">Sales</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsOtherr" id="isOtherr" />
+                            <label class="form-check-label" for="isOtherr">Other</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsDontWork" id="isDontWork" />
+                            <label class="form-check-label" for="isDontWork">I don't work</label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" asp-for="IsInformationTechnologyServices" id="isInformationTechnologyServices" />
+                            <label class="form-check-label" for="isInformationTechnologyServices">Information Technology & Services</label>
+                        </div>
+                    </div>
+                </div>
+                <span asp-validation-for="Industries" class="text-danger"></span>
+            </div>
+
+
+              <div class="mb-3">
+        <label asp-for="SmartphoneUsage" class="form-label">Do you use a smart phone?</label>
+        <select asp-for="SmartphoneUsage" class="form-select">
+            <option value="Business">Yes for business</option>
+            <option value="Personal">Yes for personal</option>
+            <option value="Both">Yes for both</option>
+            <option value="No">I don’t</option>
+        </select>
+        <span asp-validation-for="SmartphoneUsage" class="text-danger"></span>
+    </div>
+<!-- Webcam Availability Radio Buttons -->
+<div class="mb-3">
+    <label class="form-label">Do you have a webcam and are you willing to use it for an online research opportunity?</label>
+    <div class="webcam-options">
+        <label class="webcam-option">
+            <input type="radio" asp-for="WebcamAvailability" value="YesWilling" />
+            <span class="option-label">Yes, I have a webcam and am willing to use it for an online research opportunity.</span>
+        </label>
+        <label class="webcam-option">
+            <input type="radio" asp-for="WebcamAvailability" value="YesNotWilling" />
+            <span class="option-label">Yes, I have a webcam but am not willing to use it for an online research opportunity.</span>
+        </label>
+        <label class="webcam-option">
+            <input type="radio" asp-for="WebcamAvailability" value="No" />
+            <span class="option-label">I do not have a webcam.</span>
+        </label>
+    </div>
+    <span asp-validation-for="WebcamAvailability" class="text-danger"></span>
+</div>
+
+<!-- Feedback Agreement Radio Buttons -->
+<div class="mb-3">
+    <label class="form-label">Your feedback is important so please provide honest and thoughtful feedback. Should our quality checks indicate that you are not attentive throughout the survey, you stand the risk of forfeiting the associated rewards. I will read each question thoroughly and I will respond to all questions thoughtfully and honestly.</label>
+    <div class="feedback-options">
+        <label class="feedback-option">
+            <input type="radio" asp-for="FeedbackAgreement" value="Agree" />
+            <span class="option-label">I agree.</span>
+        </label>
+        <label class="feedback-option">
+            <input type="radio" asp-for="FeedbackAgreement" value="Disagree" />
+            <span class="option-label">I disagree.</span>
+        </label>
+    </div>
+    <span asp-validation-for="FeedbackAgreement" class="text-danger"></span>
+</div>
+
+       
+
+                
+
+            <input type="submit" value="Register" class="btn btn-success w-100 p-2"  style="padding: 0.5rem 1rem; height: auto; line-height: normal;"  />
+            <p class="text-center mt-2">
+                Already have an account? <a asp-controller="Account" asp-action="Login" class="text-decoration-none">Login</a>
+            </p>
+            <div class="text-center">
+                <a asp-controller="Home" asp-action="Index" class="text-decoration-none mt-3">Back</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+<script type="text/javascript" src="@Url.Content("~/js/jquery.js")"></script>
+<script type="text/javascript" src="@Url.Content("~/js/vendors.min.js")"></script>
+<script type="text/javascript" src="@Url.Content("~/js/main.js")"></script>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

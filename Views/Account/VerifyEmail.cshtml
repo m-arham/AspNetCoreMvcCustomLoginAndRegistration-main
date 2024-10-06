@@ -1,0 +1,27 @@
+﻿@using UsersApp.ViewModels;
+@model VerifyEmailViewModel;
+
+@{
+    ViewData["Title"] = "Verify Email";
+    Layout = "~/Views/Shared/_AccountLayout.cshtml";
+}
+
+<div class="account-container">
+    <div class="account-box">
+      
+
+<h2>Verify Your Email</h2>
+<p>Please check your email for a verification link to confirm your account.</p>
+
+<div class="text-center">
+                <a asp-controller="Home" asp-action="Index" class="text-decoration-none mt-3">Back</a>
+            </div>
+
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial.cshtml");
+    }
+}

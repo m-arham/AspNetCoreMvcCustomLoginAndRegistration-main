@@ -1,0 +1,116 @@
+@{
+    ViewBag.Title = "Contact - Business";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Change this to your layout path if necessary
+}
+
+
+ 
+ <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link rel="stylesheet" href="@Url.Content("~/css/index.css")" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+
+<section class="page-title-big-typography bg-dark-gray ipad-top-space-margin" data-parallax-background-ratio="0.5"
+        style="background-image: url('@Url.Content("~/images/demo-business-contact-title-bg.jpg")')">
+    <div class="opacity-extra-medium bg-dark-slate-blue"></div>
+    <div class="container">
+        <div class="row align-items-center justify-content-center extra-small-screen">
+            <div class="col-12 position-relative text-center page-title-extra-large">
+                <h1 class="m-auto text-white text-shadow-double-large fw-500 ls-minus-3px xs-ls-minus-2px"
+                    data-anime="{ &quot;translateY&quot;: [15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    Contact - business</h1>
+            </div>
+            <div class="down-section text-center"
+                data-anime="{ &quot;translateY&quot;: [-15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 0, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                <a href="#down-section" aria-label="scroll down" class="section-link">
+                    <div class="d-flex justify-content-center align-items-center mx-auto rounded-circle fs-30 text-white">
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="down-section" class="overflow-hidden">
+    <div class="container">
+        <div class="row g-0 justify-content-center">
+            <div class="col-lg-3 col-md-6"
+                data-anime="{ &quot;translateX&quot;: [-15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 100, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                <div class="h-100 sm-h-500px xs-h-400px cover-background"
+                    style="background-image: url('@Url.Content("~/images/demo-business-contact-01.jpg")')"></div>
+            </div>
+            <div class="col-lg-4 col-md-6"
+                data-anime="{ &quot;translateX&quot;: [15, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 100, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                <div class="bg-base-color p-18 lg-p-15 h-100">
+                    <span class="text-white text-decoration-line-bottom mb-10px d-inline-block">Ask us how?</span>
+                    <p class="mb-0 text-white"><b>Registered Address:</b></p>
+                    <p class="text-white opacity-5">
+                        B 3 Acharya Niketan,<br />
+                        Mayur Vihar Phase - 1 <br />
+                        Delhi - 110091</p>
+
+                    <p class="mb-0 text-white"><b>Canada Address:</b></p>
+                    <p class="text-white opacity-5">
+                        906, 37 Grosvenor Street, Toronto Ontario M4Y3G5</p>
+                    <span class="text-white text-decoration-line-bottom mb-10px d-inline-block">📲 Reach Us</span>
+                    <p><a href="tel:+919717197070" class="text-white opacity-5">+91 97171 97070</a></p>
+                    <span class="text-white text-decoration-line-bottom mb-10px d-inline-block">Need live support</span>
+                    <a href="mailto:info@mlrsglobal.com" class="text-white opacity-5 d-block"><span class="__cf_email__" data-cfemail="">info@mlrsglobal.com</span></a>
+                </div>
+            </div>
+            <div class="col-lg-4 offset-lg-1">
+                <div class="pt-5 md-pt-45px contact-form-style-01"
+                    data-anime="{ &quot;translateX&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 300, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+                    <h4 class="d-inline-block alt-font fw-600 text-dark-gray ls-minus-1px mb-30px">Get a quote via contact us form.</h4>
+
+                    @using (Html.BeginForm("Contact", "Home", FormMethod.Post))
+                    {
+                        <div class="position-relative form-group mb-20px">
+                            <span class="form-icon"><i class="fa-solid fa-person-chalkboard"></i></span>
+                            <input type="text" name="name" class="form-control required" placeholder="Your name*" required>
+                        </div>
+                        <div class="position-relative form-group mb-20px">
+                            <span class="form-icon"><i class="fa-solid fa-envelope-circle-check"></i></span>
+                            <input type="email" name="email" class="form-control required" placeholder="Your email address*" required>
+                        </div>
+                        <div class="position-relative form-group form-textarea">
+                            <span class="form-icon"><i class="fa-brands fa-signal-messenger"></i></span>
+                            <textarea placeholder="Your message" name="comment" class="form-control" rows="3" required></textarea>
+                            <input type="hidden" name="redirect" value="">
+                            <button class="btn btn-small btn-round-edge btn-dark-gray btn-box-shadow mt-20px m-auto submit pt-10" type="submit">Send message</button>
+                            <div class="form-results mt-20px d-none"></div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="p-0" id="location"
+    data-anime="{ &quot;translate&quot;: [0, 0], &quot;opacity&quot;: [0,1], &quot;duration&quot;: 600, &quot;delay&quot;: 100, &quot;staggervalue&quot;: 300, &quot;easing&quot;: &quot;easeOutQuad&quot; }">
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-12 p-0">
+                <div id="map" class="map">
+                    <iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.783462736923!2d77.29396931068707!3d28.60627218517194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce4983f619107%3A0xe00bb2707c5a2bb7!2sB%2C%203%2C%20Mayur%20Vihar%20Phase%20I%2C%20Acharya%20Niketan%2C%20Mayur%20Vihar%2C%20New%20Delhi%2C%20Delhi%2C%20110091!5e0!3m2!1sen!2sin!4v1719907008634!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="scroll-progress d-none d-xxl-block">
+    <a href="#" class="scroll-top" aria-label="scroll">
+        <span class="scroll-text">Scroll</span><span class="scroll-line"><span class="scroll-point"></span></span>
+    </a>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
+<script type="text/javascript" src="@Url.Content("~/js/jquery.js")"></script>
+<script type="text/javascript" src="@Url.Content("~/js/vendors.min.js")"></script>
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCA56KqSJ11nQUw_tXgXyNMiPmQeM7EaSA&callback=initMap"></script>
+<script type="text/javascript" src="@Url.Content("~/js/main.js")"></script>

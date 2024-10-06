@@ -1,0 +1,68 @@
+@{
+    Layout = null; // No parent layout, this will be a standalone layout
+    ViewData["Title"] = "Dashboard"; // Set the title for the dashboard
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - My Dashboard</title>
+
+    <!-- Include CSS files -->
+    <link href="~/assets/css/nucleo-icons.css" rel="stylesheet" />
+    <link href="~/assets/css/argon-dashboard.css?v=2.0.4" rel="stylesheet" />
+    
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet" />
+     
+    <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+
+    <link rel="stylesheet" href="~/css/vendors.min.css" />
+    <link rel="stylesheet" href="~/css/icon.min.css" />
+    <link rel="stylesheet" href="~/css/style.min.css" />
+    <link rel="stylesheet" href="~/css/responsive.min.css" />
+    <link rel="stylesheet" href="~/demos/business/business.css" />
+     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/index.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+</head>
+<body>
+    <!-- Main Content Area -->
+    <div class="container-fluid py-4">
+        @RenderBody() <!-- This is where the content of the dashboard pages will be inserted -->
+    </div>
+
+    <!-- Include JavaScript files -->
+    <script src="~/assets/js/core/popper.min.js"></script>
+    <script src="~/assets/js/core/bootstrap.min.js"></script>
+    <script src="~/assets/js/plugins/chartjs.min.js"></script>
+    <script src="~/assets/js/argon-dashboard.min.js?v=2.0.4"></script>
+      <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+ 
+         @RenderSection("VendorStyles", required: false)
+  @RenderSection("styles", required: false)
+  <!-- Page Styles -->
+  @RenderSection("PageStyles", required: false)
+     @RenderSection("VendorScripts", required: false)
+
+
+  
+
+  <!-- Main JS-->
+  <script src='~/js/main.js'></script>
+    
+  <!-- Page Scripts-->
+  @RenderSection("PageScripts", required: false)
+    
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

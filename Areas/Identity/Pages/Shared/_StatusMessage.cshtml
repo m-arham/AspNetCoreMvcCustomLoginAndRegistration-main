@@ -1,0 +1,6 @@
+@if (ViewData["StatusMessage"] != null)
+{
+    <div class="alert alert-info">
+        @Html.Raw(ViewData["StatusMessage"])
+    </div>
+}
