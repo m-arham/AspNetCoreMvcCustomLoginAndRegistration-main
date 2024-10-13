@@ -4,7 +4,33 @@
 @{
     ViewData["Title"] = "Login";
     Layout = "~/Views/Shared/_Layout.cshtml";
+    bool emailConfirmed = Context.Request.Query["emailConfirmed"] == "true";
+
 }
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+
+
+
+
+@if (emailConfirmed)
+{
+    <script>
+        toastr.success('Your email has been confirmed successfully. You can now log in.');
+         
+         if (window.location.search.indexOf('emailConfirmed=true') !== -1) {
+            const url = new URL(window.location);
+            url.searchParams.delete('emailConfirmed');
+            window.history.replaceState(null, null, url);
+            }
+    
+    </script>
+   
+}
+
 
 
 <link rel="stylesheet" href="@Url.Content("~/css/index.css")" />

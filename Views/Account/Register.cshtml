@@ -326,7 +326,7 @@
             </div>
 
             <div class="mb-3">
-                    <label class="form-label" for="PhoneNumber">Phone Number</label>
+                    <label class="form-label" asp-for="PhoneNumber">Phone Number</label>
                     <div class="input-group">
                         <select asp-for="CountryCode" class="form-select" id="CountryCode">
                             <option value="">Select Country Code</option>
@@ -445,6 +445,7 @@
 
             <!-- Add more options as needed -->
         </select>
+        
         <span asp-validation-for="Industry" class="text-danger"></span>
     </div>
 
@@ -471,8 +472,8 @@
 
 
                     <div class="mb-3">
-                    <label asp-for="JobTitle" class="form-label">What is your current employment status?</label>
-                    <select asp-for="JobTitle" class="form-select">
+                    <label asp-for="EmployStatus" class="form-label">What is your current employment status?</label>
+                    <select asp-for="EmployStatus" class="form-select">
                        <option value="">Select Employment Status</option>
                         <option value="Employed Full-Time">Employed Full-Time</option>
                         <option value="Employed Part-Time">Employed Part-Time</option>
@@ -484,9 +485,9 @@
                         <option value="Contractor">Contractor</option>
                         <option value="Looking for Work">Looking for Work</option>
                         <option value="Not Seeking Employment">Not Seeking Employment</option>
-                        <option value="None">None of the above</option>
+                        <option value="Other">Other</option>
                     </select>
-                    <span asp-validation-for="EmpStatus" class="text-danger"></span>
+                   
                 </div>
 
 

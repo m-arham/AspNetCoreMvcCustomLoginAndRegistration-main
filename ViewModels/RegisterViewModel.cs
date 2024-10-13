@@ -120,20 +120,19 @@ namespace UsersApp.ViewModels
                 public string Industry { get; set; } // Option 3 field
 
                 [Required(ErrorMessage = "Please indicate if you have a PayPal account.")]
-                public bool HasPayPal { get; set; } // Option 4 field
+                public string HasPayPal { get; set; } // Option 4 field
 
                 [Required(ErrorMessage = "Job Title is required.")]
                 public string JobTitle { get; set; } // Option 5 field
 
                 [Required(ErrorMessage = "Employment Status is required.")]
-                public string EmpStatus { get; set; } // Option 6 field
+                public string EmployStatus { get; set; } // Option 6 field
 
                 [Required(ErrorMessage = "Employee Count is required.")]
-                public int EmployeeCount { get; set; } // Option 7 field
+                public string EmployeeCount { get; set; } // Option 7 field
 
                 [Required(ErrorMessage = "Income Before Taxes is required.")]
-                [Range(0, double.MaxValue, ErrorMessage = "Please enter a valid income.")]
-                public decimal IncomeBeforeTaxes { get; set; } // Option 8 field
+                public string IncomeBeforeTaxes { get; set; } // Option 8 field
 
                 [Required(ErrorMessage = "Education Level is required.")]
                 public string EducationLevel { get; set; } // Option 9 field
@@ -142,21 +141,19 @@ namespace UsersApp.ViewModels
                 public string Department { get; set; } // Option 10 field
 
                 [Required(ErrorMessage = "Annual Revenue is required.")]
-                [Range(0, double.MaxValue, ErrorMessage = "Please enter a valid revenue.")]
-                public decimal AnnualRevenue { get; set; } // Option 11 field
+                public string AnnualRevenue { get; set; } // Option 11 field
 
                 [Required(ErrorMessage = "Family Income is required.")]
-                [Range(0, double.MaxValue, ErrorMessage = "Please enter a valid family income.")]
-                public decimal FamilyIncome { get; set; } // Option 12 field
+                public string FamilyIncome { get; set; } // Option 12 field
 
                 [Required(ErrorMessage = "Please indicate your Smartphone Usage.")]
-                public bool SmartphoneUsage { get; set; } // Option 13 field
+                public string SmartphoneUsage { get; set; } // Option 13 field
 
                 [Required(ErrorMessage = "Please indicate if a Webcam is available.")]
-                public bool WebcamAvailability { get; set; } // Option 14 field
+                public string WebcamAvailability { get; set; } // Option 14 field
 
                 [Required(ErrorMessage = "You must agree to provide feedback.")]
-                public bool FeedbackAgreement { get; set; } // Option 15 field
+                public string FeedbackAgreement { get; set; } // Option 15 field
 
 
 }
